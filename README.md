@@ -1,6 +1,6 @@
 ### Hi there 👋, Hash
 #### I'm a passionate developer from Sri Lanka.
-![I'm a passionate developer from Sri Lanka.](file:///C:/Users/User/Downloads/github-header-image.png)
+![I'm a passionate developer from Sri Lanka.]
 
 I am an undergraduate computer science student who is currently taking BSc Computer Science degree from university of westminster.
 
