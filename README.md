@@ -4,7 +4,7 @@
 
 I am an undergraduate computer science student who is currently taking BSc Computer Science degree from university of westminster.
 
-Skills: JAVA / REACT / JS / HTML / CSS
+Skills: JAVA / JS / HTML / CSS
 
 - 🌱 I’m currently learning Flutter 
 - ⚡ Fun fact: I love playing games which why I love to design games. 
