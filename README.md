@@ -5,14 +5,15 @@ I'm a full stack developer...
 
 
 
+📖 I'm a Computer Science student at University of Westminster
 
 🧠 I'm currently learning Flutter
 
-📫 How to reach me -                himashsathsara2@gmail.com
+📫 How to reach me - himashsathsara2@gmail.com
 
 😄 Pronouns - He/Him
 
-⚡️ Fun fact, I love gaming which is why I choosed computer science. 😄
+⚡️ Fun fact, I love gaming which is why I choosed computer science. 
 
 
 ## 🔗 Links
