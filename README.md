@@ -1,13 +1,13 @@
 ### Hi there 👋, Hash
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer... But into Front End 😉
 
 
 
 📖 I'm a Computer Science student at University of Westminster
 
-🧠 I'm currently learning Flutter
+🧠 I'm currently learning Spring Boot and Angular 
 
 📫 How to reach me - himashsathsara2@gmail.com
 
@@ -23,5 +23,5 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Java, Flutter, Python
+HTML, CSS, Java, Flutter, Dart, Python, React js, 
 
